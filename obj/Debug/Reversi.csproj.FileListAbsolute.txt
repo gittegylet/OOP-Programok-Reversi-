@@ -1,0 +1,6 @@
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\bin\Debug\Reversi.exe.config
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\bin\Debug\Reversi.exe
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\bin\Debug\Reversi.pdb
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\obj\Debug\Reversi.exe
+c:\users\okoska\documents\visual studio 2015\Projects\Reversi\Reversi\obj\Debug\Reversi.pdb
